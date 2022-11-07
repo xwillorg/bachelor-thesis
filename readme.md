@@ -1,6 +1,3 @@
-# Doing what they said, not what they wanted
-## Exploration of the alignment problem in machine learning with the use of simulated agents
+### **Exploration of the alignment problem in machine learning with the operation of simulated agents using a critical dissection of the prevailing anthropocentric approach**
 
-More description will follow.
-
-Gitlab mirror working?
+The research will explore, how we tell machine learning algorithms, what to do. It is not an easy task to translate a human will on to a machine. There are many parts, where misalignment can happen. The so called Alignment Problem is raising in popularity and importance, because we are seeing machine learning algorithms being used in a wide range of technology. The prevailing anthroprocentric approach is deeply rooted in human history and results in a measurement of intelligence, according to our perception of it. This perception can be flawed and leads to distorted results, which can effect us as humans directly through our technology we use everyday.
